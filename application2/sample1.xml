@@ -12,7 +12,7 @@
         </globalVariable>
         <globalVariable>
             <name>Proprietate din fisier 1</name>
-            <value>Valoare din fisier 1</value>
+            <value>Valoare din fisier1</value>
             <deploymentSettable>false</deploymentSettable>
             <serviceSettable>false</serviceSettable>
             <type>String</type>
